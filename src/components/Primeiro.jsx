@@ -2,6 +2,6 @@ import React from 'react'
 
 export default () =>
     <>
-        <h1>Primeiro</h1>
-        <h2>Exemplo de componente</h2>
+        <h1>Questionário</h1>
+        <h2>Execícios de <strong>Física</strong></h2>
     </>
